@@ -1,4 +1,4 @@
-Demonstrating Git  Abilities
+Demonstrating Git Capabilities
 
 Need to add
 
